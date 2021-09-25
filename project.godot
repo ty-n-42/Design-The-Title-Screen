@@ -6,12 +6,11 @@
 ;   [section] ; section goes between []
 ;   param=value ; assign values to parameters
 
-config_version=3
+config_version=4
 
 [application]
 
 config/name="Design a main menu screen"
-run/main_scene=""
 config/icon="res://icon.png"
 
 [display]
